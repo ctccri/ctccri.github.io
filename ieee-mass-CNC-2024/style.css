@@ -145,8 +145,7 @@
 
 /* The main title for the sidebar menu */
 .list-group .title {
-    /*background-color: #395b89;*/
-    background-color: #6c8939;
+    background-color: #395b89;
 
     /* Green background */
     color: white;
